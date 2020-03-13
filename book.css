@@ -1,0 +1,14 @@
+
+h1{
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+}
+p{
+    float: right;
+
+   text-align: right;
+}
+h3{
+     float: right;
+}
